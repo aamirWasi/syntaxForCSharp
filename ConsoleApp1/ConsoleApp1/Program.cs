@@ -15,7 +15,7 @@ namespace ConsoleApp1
             float maxFloat = float.MaxValue;
             float minFloat = float.MinValue;
             decimal maxDec = decimal.MaxValue;
-            decimal mindec = decimal.MinValue;
+            decimal minDec = decimal.MinValue;
 
             Console.WriteLine("Max int :"+maxInt);
             Console.WriteLine("Min int :"+minInt);
